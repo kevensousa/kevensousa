@@ -5,9 +5,10 @@ Tenho 18 anos e sou técnico em Automação Industrial pela ETEC José Martimian
 <br>
 
 ## Technologies
-- Harware
+- Hardware
 - HTML
 - CSS
+- JavaScript
 - Estudando React JS e Git
 
 **Languages and Tools:**  
