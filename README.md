@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/keven-patrick-de-sousa-araujo-9411b7206/">Keven Araujo</a>
  
 ## About Me
-Tenho 18 anos e sou técnico em Automação Industrial pela ETEC José Martimiano da Silva (Ribeirão Preto, SP), formada em 2020. Atualmente, trabalho com trade marketing e estudo por conta própria sobre programações enquanto não entro em alguma faculdade da área. 
+Tenho 19 anos e sou técnico em Automação Industrial pela ETEC José Martimiano da Silva (Ribeirão Preto, SP), formada em 2020. Atualmente, trabalho como Assistente Fiscal e curso Ciência da Computação pela Universidade Estácio de Sá. 
 <br>
 
 ## Technologies
